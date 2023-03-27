@@ -1,0 +1,8 @@
+//
+// Created by DELL LATITUDE E5480 on 27/03/2023.
+//
+
+#ifndef GIT_EXAMPLE_VERS_H
+#define GIT_EXAMPLE_VERS_H
+
+#endif //GIT_EXAMPLE_VERS_H
